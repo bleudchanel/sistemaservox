@@ -1,0 +1,11 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\bin\Release\OpenInvoicePeru.Comun.Dto.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\bin\Release\OpenInvoicePeru.Comun.Dto.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\bin\Release\Newtonsoft.Json.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\bin\Release\RestSharp.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\bin\Release\Newtonsoft.Json.xml
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\bin\Release\RestSharp.xml
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\obj\Release\OpenInvoicePeru.Comun.Dto.csprojAssemblyReference.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\obj\Release\OpenInvoicePeru.Comun.Dto.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\obj\Release\OpenInvoicePeru.Comun.Dto.csproj.CopyComplete
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\obj\Release\OpenInvoicePeru.Comun.Dto.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun.Dto\obj\Release\OpenInvoicePeru.Comun.Dto.pdb

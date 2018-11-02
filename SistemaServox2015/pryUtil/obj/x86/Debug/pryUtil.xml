@@ -1,0 +1,202 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pryUtil
+</name>
+</assembly>
+<members>
+<member name="T:pryUtil.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:pryUtil.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:pryUtil.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:pryUtil.clsUtil.fncInicioFinMes(System.Int32,System.Int32)">
+ <summary>
+ 0 Inicio Mes || 1 Fin Mes
+ </summary>
+ <param name="intMes"></param>
+ <param name="intAnio"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:pryUtil.clsUtil.enmEstado">
+ <summary>
+ Define estado de variables del sistema
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.FechaHoraServidor">
+ <summary>
+ Obtener la Fecha y Hora del Servidor
+ </summary>
+ <returns>DateTime</returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.fncValidaDataTable(System.Data.DataTable)">
+ <summary>
+ Valida si un dataTable tiene datos
+ </summary>
+ <param name="dtBase">DataTable a tratar</param>
+ <returns>True or False</returns>
+ <remarks></remarks>
+ <author>Wilmer</author>
+</member>
+<member name="M:pryUtil.clsUtil.SetComboBox(System.Windows.Forms.ComboBox,System.Data.DataTable,System.String,System.String)">
+ <summary>
+ Setea un ComboBox con un datatable
+ </summary>
+ <param name="cmbTarget">ComboBox a Setear</param>
+ <param name="dtBase">DataTable base</param>
+ <param name="strDisplayMember">DisplayMember para el combobox</param>
+ <param name="strValueMember">ValueMember para el combobox</param>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.Notificar(System.String,System.String)">
+ <summary>
+ Notifica un mensaje de exito
+ </summary>
+ <param name="xMensaje"></param>
+ Descripcion del mensaje
+ <param name="xTitulo"></param>
+ Titulo del mensaje
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.Autorizar(System.String,System.String)">
+ <summary>
+ Visualiza un mensaje de autorizacion que confirma o no la accion. Devuelve True o False
+ </summary>
+ <param name="xMensaje"></param>
+ Descripcion del mensaje
+ <param name="xTitulo"></param>
+ Titulo del mensaje
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.ObtenerValorCelda(System.Data.DataRow,System.String,System.Boolean)">
+ <summary>
+ Obtiene el valor de una celda en un datarow por el nombre del campo. Devuelve un objeto
+ </summary>
+ <param name="xdrRegistro"></param>
+ Objeto DataRow que contiene los datos
+ <param name="xstrCampo"></param>
+ Nombre de la columna
+ <param name="xbooAnulable"></param>
+ Confirma si el campo acepta valores nulos
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.ObtenerValorCampoDefecto(System.Object)">
+ <summary>
+ Obtiene el valor por defecto de un tipo de datos. Devuelve un objeto
+ </summary>
+ <param name="xobjTipo"></param>
+ Tipo de dato
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.ObtenerValoresUnicosCampo(System.Data.DataView,System.String)">
+ <summary>
+ Obtiene un array de objetos con los valores diferentes de un campo de tabla. Devuelve un List(Of Object)
+ </summary>
+ <param name="xtbvTabla"></param>
+ Objeto DataTable que contiene los datos
+ <param name="xstrCampo"></param>
+ Nombre de la columna
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.ConvertirImagen2Bytes(System.Object)">
+ <summary>
+ Devuelve un objeto imagen como array de bytes
+ </summary>
+ <param name="xImagen"></param>
+ Objeto de imagen
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.ConvertirBytes2Imagen(System.Object)">
+ <summary>
+ Devuelve un array de bytes como objeto imagen
+ </summary>
+ <param name="xBytes"></param>
+ Objeto Array de Bytes
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.FormatearNumero(System.Double,System.Int32)">
+ <summary>
+ Formatear un Numero indicando el numero de decimales Ej. 126,152.00 (con 2 decimales)
+ </summary>
+ <param name="Numero"></param>
+ <param name="Decimales"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.Double(System.Object)">
+ <summary>
+ Devuelve un objeto como Double
+ </summary>
+ <param name="xValor"></param>
+ Valor a convertir
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.AlinearTexto(System.Object,System.Int32,System.String)">
+ <summary>
+ Obtiene un texto alineado indicando la longitud del texto
+ </summary>
+ <param name="xTexto"></param>
+ Texto a alinear
+ <param name="xLongitud"></param>
+ Longitud del texto a devolver
+ <param name="xAlineacion"></param>
+ Alineacion: Izquierda (I), Derecha (D) o Centrada (C)
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.FormateaColumna(System.Windows.Forms.DataGridView,System.String[],System.Int32)">
+ <summary>
+ Formatea la Columna de un DataGridView 0: DateTime - 1: Decimal - 2: Ocultar
+ </summary>
+ <param name="dgvTarget">DataGridView objetivo</param>
+ <param name="strColumn">Array de columnas</param>
+ <param name="intTipo">0: Date - 1: Decimal - 2: Ocultar</param>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.FormateaGridOrden(System.Windows.Forms.DataGridView,System.String[])">
+ <summary>
+ Ordena las Columnas en el Grid empezando en DisplayIndex: 0
+ </summary>
+ <param name="dgvTarget">DataGridView Objetivo</param>
+ <param name="strColumn">Array de Columnas en orden</param>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.AddRowsToDatatable(System.Data.DataTable,System.Data.DataTable)">
+ <summary>
+ Agrega Filas desde un datatable existente [dtFuente] a otro datatable [dtTarget]
+ </summary>
+ <param name="dtTarget">dt Objetivo</param>
+ <param name="dtFuente">dt Origen</param>
+ <remarks></remarks>
+</member>
+<member name="M:pryUtil.clsUtil.ClearTextBox(System.Windows.Forms.Control)">
+ <summary>
+ Limpia todos los textbox en determinado formulario
+ </summary>
+ <param name="root">form o group, conjunto que agrupa los textbox</param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

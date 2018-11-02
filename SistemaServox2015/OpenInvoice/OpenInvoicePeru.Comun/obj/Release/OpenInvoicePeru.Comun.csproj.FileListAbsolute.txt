@@ -1,0 +1,5 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\bin\Release\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\bin\Release\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\obj\Release\OpenInvoicePeru.Comun.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\obj\Release\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\obj\Release\OpenInvoicePeru.Comun.pdb

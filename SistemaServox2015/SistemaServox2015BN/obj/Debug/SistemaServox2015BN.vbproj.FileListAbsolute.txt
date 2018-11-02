@@ -1,0 +1,105 @@
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBN.vb
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBUS.vb
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe.config
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbprojResolveAssemblyReference.cache
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.Resources.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.GenerateResource.Cache
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.CoreCompileInputs.cache
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe.config
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.Resources.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.xml
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.xml
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe.config
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbprojAssemblyReference.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.Resources.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.GenerateResource.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.CopyComplete
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.xml
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\SistemaServox2015BN.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\bin\Debug\pryUtil.exe.config
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbprojAssemblyReference.cache
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.Resources.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.GenerateResource.cache
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.vbproj.CopyComplete
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015BN\obj\Debug\SistemaServox2015BN.pdb

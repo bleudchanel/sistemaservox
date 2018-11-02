@@ -1,0 +1,39 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Firmado.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Firmado.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.Dto.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.Dto.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csprojAssemblyReference.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csproj.CopyComplete
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Firmado.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Firmado.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.Dto.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.Dto.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csprojAssemblyReference.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csproj.CopyComplete
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.pdb
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Firmado.dll
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Firmado.pdb
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.Dto.dll
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.Dto.pdb
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csprojAssemblyReference.cache
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csproj.CoreCompileInputs.cache
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.csproj.CopyComplete
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.dll
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Firmado\obj\Debug\OpenInvoicePeru.Firmado.pdb

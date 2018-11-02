@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<configuration>
+    <configSections>
+      <section name="dataConfiguration" type="Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DatabaseSettings, Microsoft.Practices.EnterpriseLibrary.Data, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" requirePermission="true"/>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="SistemaServox2015.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+        </sectionGroup>
+    </configSections>
+    <dataConfiguration defaultDatabase="MatriXTest"/>
+    <connectionStrings>
+      <add name="MatriX" connectionString="Database=SERVOX2016;server=192.168.0.8,1433;UID=sa;PWD=servox123;Connection Timeout=120" providerName="System.Data.SqlClient"/>
+      <add name="MatriXLocal" connectionString="Database=SERVOX2016;server=DESKTOP-DSNNBBB\SQLEXPRESS;UID=sa;PWD=1234;Connection Timeout=60" providerName="System.Data.SqlClient"/>
+      <add name="MatriXTest" connectionString="Database=SERVOX2016;server=DESKTOP-8FQFJTS\SQLEXPRESS;UID=sa;PWD=1234;Connection Timeout=60" providerName="System.Data.SqlClient"/>
+      <add name="MatriX2016" connectionString="Database=SERVOX2016;server=192.168.0.3,1437;UID=sa;PWD=servox123;Connection Timeout=120" providerName="System.Data.SqlClient"/>
+    </connectionStrings>
+  
+  <startup useLegacyV2RuntimeActivationPolicy="true">
+    
+  <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup>
+  
+    <userSettings>
+        <SistemaServox2015.My.MySettings>
+            <setting name="Usuario" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="IGV" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="UltimoSerieCompraFactura" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimoSerieVentaBoleta" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimoSerieCompraBoleta" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimoTipoUsadoCompra" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="UltimoSerieVentaFactura" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimaFechaCompra" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimaFechaVentaBoleta" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimaFechaVentaFactura" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="ActualizarPrecioVenta" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ActualizaPrecioCompra" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="IdUltimoUsuario" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="MostrarControlesAvanzados" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="NombreUsuario" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimaSerieProforma" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimoSerieGarantiaFactura" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimoSerieGarantiaBoleta" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimoSerieProformaFactura" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimoSerieProformaBoleta" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimaFechaProforma" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimaFechaGarantia" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UltimaSerieGarantia" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="ValorDolar" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="UltimoPeriodoVentaSel" serializeAs="String">
+                <value>0</value>
+            </setting>
+        </SistemaServox2015.My.MySettings>
+    </userSettings>
+  </configuration>

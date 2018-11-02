@@ -1,0 +1,104 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\Departamento.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\DireccionesSunat.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\ModalidadTransportes.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\Monedas.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\Provincia.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoDatoAdicionales.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoDiscrepancias.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoDocumentoAnticipos.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoDocumentoContribuyentes.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoDocumentoRelacionados.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoDocumentos.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoImpuestos.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoOperaciones.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\TipoPrecios.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\Data\Ubigeo.txt
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\OpenInvoicePeru.exe.config
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\OpenInvoicePeru.exe
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\artifacts\OpenInvoicePeru.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csprojFakesResolveAssemblyReference.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDatosAdicionales.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDatosGuia.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDetalleDocumento.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDiscrepancia.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDocumento.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDocumentoRelacionado.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmEnviarSunat.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmTicket.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.PlantillaBase.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.Properties.Resources.resources
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.GenerateResource.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.CopyComplete
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.exe
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csprojAssemblyReference.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\Departamento.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\DireccionesSunat.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\ModalidadTransportes.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\Monedas.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\Provincia.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDatoAdicionales.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDiscrepancias.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDocumentoAnticipos.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDocumentoContribuyentes.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDocumentoRelacionados.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDocumentos.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoImpuestos.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoOperaciones.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\TipoPrecios.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\Data\Ubigeo.txt
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\OpenInvoicePeru.exe.config
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\OpenInvoicePeru.exe
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\artifacts\OpenInvoicePeru.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csprojFakesResolveAssemblyReference.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDatosAdicionales.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDatosGuia.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDetalleDocumento.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDiscrepancia.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDocumento.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDocumentoRelacionado.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmEnviarSunat.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmTicket.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.PlantillaBase.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.Properties.Resources.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.GenerateResource.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.CopyComplete
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.exe
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.pdb
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\Departamento.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\DireccionesSunat.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\ModalidadTransportes.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\Monedas.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\Provincia.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDatoAdicionales.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDiscrepancias.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDocumentoAnticipos.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDocumentoContribuyentes.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDocumentoRelacionados.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoDocumentos.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoImpuestos.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoOperaciones.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\TipoPrecios.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\Data\Ubigeo.txt
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\OpenInvoicePeru.exe.config
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\OpenInvoicePeru.exe
+C:\Users\MSI\SistemaServox2015\OpenInvoice\artifacts\OpenInvoicePeru.pdb
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csprojFakesResolveAssemblyReference.cache
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDatosAdicionales.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDatosGuia.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDetalleDocumento.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDiscrepancia.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDocumento.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmDocumentoRelacionado.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmEnviarSunat.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.FrmTicket.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.PlantillaBase.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.Properties.Resources.resources
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.GenerateResource.cache
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csproj.CopyComplete
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.exe
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.pdb
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.WinApp\obj\Debug\OpenInvoicePeru.WinApp.csprojAssemblyReference.cache

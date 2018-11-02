@@ -1,0 +1,136 @@
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.config
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.manifest
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\pryUtil.application
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\pryUtil.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\pryUtil.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\DropDownControls.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\bin\Debug\System.Text.Rtf.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.frmNotificarError.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.TrustInfo.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe.manifest
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.application
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbprojResolveAssemblyReference.cache
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbprojResolveAssemblyReference.cache
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.frmNotificarError.resources
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.Resources.resources
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.GenerateResource.Cache
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.CoreCompileInputs.cache
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.xml
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.pdb
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBN.vb
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBUS.vb
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.config
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.manifest
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\pryUtil.application
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\pryUtil.pdb
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\pryUtil.xml
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\DropDownControls.dll
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.dll
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+I:\Proyectos\SistemaServox2015\pryUtil\bin\Debug\System.Text.Rtf.dll
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.ResolveComReference.cache
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.TrustInfo.xml
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe.manifest
+I:\Proyectos\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.application
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.config
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.manifest
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.application
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\DropDownControls.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\System.Text.Rtf.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.frmNotificarError.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.Resources.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.TrustInfo.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe.manifest
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.application
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.config
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.manifest
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.application
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\pryUtil.xml
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\DropDownControls.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\bin\Debug\System.Text.Rtf.dll
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.ResolveComReference.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.frmNotificarError.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.Resources.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.GenerateResource.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.TrustInfo.xml
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe.manifest
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.application
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.CopyComplete
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.xml
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.pdb
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.config
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe.manifest
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\pryUtil.application
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\pryUtil.exe
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\pryUtil.pdb
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\pryUtil.xml
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\DropDownControls.dll
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\MSI\SistemaServox2015\pryUtil\bin\Debug\System.Text.Rtf.dll
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.ResolveComReference.cache
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.frmNotificarError.resources
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.Resources.resources
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.GenerateResource.cache
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.TrustInfo.xml
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe.manifest
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.application
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbproj.CopyComplete
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.exe
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.xml
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.pdb
+C:\Users\MSI\SistemaServox2015\pryUtil\obj\x86\Debug\pryUtil.vbprojAssemblyReference.cache

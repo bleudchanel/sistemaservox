@@ -1,0 +1,9 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\bin\Debug\OpenInvoicePeru.Servicio.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\bin\Debug\OpenInvoicePeru.Servicio.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\bin\Debug\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\bin\Debug\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\obj\Debug\OpenInvoicePeru.Servicio.csprojAssemblyReference.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\obj\Debug\OpenInvoicePeru.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\obj\Debug\OpenInvoicePeru.Servicio.csproj.CopyComplete
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\obj\Debug\OpenInvoicePeru.Servicio.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio\obj\Debug\OpenInvoicePeru.Servicio.pdb

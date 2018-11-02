@@ -1,0 +1,1517 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ComponentFactory.Krypton.Design.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList">
+            <summary>Shim type of ComponentFactory.Krypton.Navigator.KryptonNavigatorActionList</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.#ctor(ComponentFactory.Krypton.Navigator.KryptonNavigatorActionList)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddBarActionsDesignerActionItemCollectionBooleanBooleanBoolean">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddBarActions(DesignerActionItemCollection actions, Boolean includeBarOrientation, Boolean checkButton, Boolean ignore)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddButtonsActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddButtonsActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddConstantActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddConstantActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddGroupActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddGroupActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddHeadersActionsDesignerActionItemCollectionBooleanBooleanBoolean">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddHeadersActions(DesignerActionItemCollection actions, Boolean includeHeaderPrimary, Boolean includeHeaderSecondary, Boolean includeHeaderBar)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddOutlookActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddOutlookActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddPage">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddPage()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddPanelActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddPanelActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AddStackActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddStackActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddBarActionsDesignerActionItemCollectionBooleanBooleanBoolean">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddBarActions(DesignerActionItemCollection actions, Boolean includeBarOrientation, Boolean checkButton, Boolean ignore)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddButtonsActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddButtonsActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddConstantActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddConstantActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddGroupActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddGroupActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddHeadersActionsDesignerActionItemCollectionBooleanBooleanBoolean">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddHeadersActions(DesignerActionItemCollection actions, Boolean includeHeaderPrimary, Boolean includeHeaderSecondary, Boolean includeHeaderBar)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddOutlookActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddOutlookActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddPage">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddPage()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddPanelActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddPanelActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.AddStackActionsDesignerActionItemCollection">
+            <summary>Sets the shim of KryptonNavigatorActionList.AddStackActions(DesignerActionItemCollection actions)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.BarHeaderPositionGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_BarHeaderPosition()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.BarHeaderPositionSetVisualOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_BarHeaderPosition(VisualOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.BarHeaderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_BarHeaderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.BarHeaderStyleSetHeaderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_BarHeaderStyle(HeaderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.BarOrientationGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_BarOrientation()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.BarOrientationSetVisualOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_BarOrientation(VisualOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ButtonDisplayLogicGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ButtonDisplayLogic()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ButtonDisplayLogicSetButtonDisplayLogic">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ButtonDisplayLogic(ButtonDisplayLogic value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CheckButtonStyleBarGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CheckButtonStyleBar()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CheckButtonStyleBarSetButtonStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CheckButtonStyleBar(ButtonStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CheckButtonStyleOutlookGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CheckButtonStyleOutlook()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CheckButtonStyleOutlookSetButtonStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CheckButtonStyleOutlook(ButtonStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CheckButtonStyleStackGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CheckButtonStyleStack()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CheckButtonStyleStackSetButtonStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CheckButtonStyleStack(ButtonStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ClearPages">
+            <summary>Sets the shim of KryptonNavigatorActionList.ClearPages()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CloseButtonActionGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CloseButtonAction()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CloseButtonActionSetCloseButtonAction">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CloseButtonAction(CloseButtonAction value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CloseButtonDisplayGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CloseButtonDisplay()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.CloseButtonDisplaySetButtonDisplay">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CloseButtonDisplay(ButtonDisplay value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.GetSortedActionItems">
+            <summary>Sets the shim of KryptonNavigatorActionList.GetSortedActionItems()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.GroupBackStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_GroupBackStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.GroupBackStyleSetPaletteBackStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_GroupBackStyle(PaletteBackStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.GroupBorderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_GroupBorderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.GroupBorderStyleSetPaletteBorderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_GroupBorderStyle(PaletteBorderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemAlignmentGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemAlignment()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemAlignmentSetRelativePositionAlign">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemAlignment(RelativePositionAlign value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemOrientationBarGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemOrientationBar()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemOrientationBarSetButtonOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemOrientationBar(ButtonOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemOrientationOutlookGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemOrientationOutlook()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemOrientationOutlookSetButtonOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemOrientationOutlook(ButtonOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemOrientationStackGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemOrientationStack()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemOrientationStackSetButtonOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemOrientationStack(ButtonOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemSizingGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemSizing()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.ItemSizingSetBarItemSizing">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemSizing(BarItemSizing value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.NavigatorModeGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_NavigatorMode()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.NavigatorModeSetNavigatorMode">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_NavigatorMode(NavigatorMode value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.OnVisibleClickObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorActionList.OnVisibleClick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.OutlookOrientationGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_OutlookOrientation()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.OutlookOrientationSetOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_OutlookOrientation(Orientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.PageBackStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_PageBackStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.PageBackStyleSetPaletteBackStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_PageBackStyle(PaletteBackStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.PanelBackStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_PanelBackStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.PanelBackStyleSetPaletteBackStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_PanelBackStyle(PaletteBackStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.PrimaryHeaderPositionGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_PrimaryHeaderPosition()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.PrimaryHeaderPositionSetVisualOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_PrimaryHeaderPosition(VisualOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.PrimaryHeaderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_PrimaryHeaderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.PrimaryHeaderStyleSetHeaderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_PrimaryHeaderStyle(HeaderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.RemovePage">
+            <summary>Sets the shim of KryptonNavigatorActionList.RemovePage()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.SecondaryHeaderOutlookVisibleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_SecondaryHeaderOutlookVisible()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.SecondaryHeaderOutlookVisibleSetInheritBool">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_SecondaryHeaderOutlookVisible(InheritBool value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.SecondaryHeaderPositionGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_SecondaryHeaderPosition()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.SecondaryHeaderPositionSetVisualOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_SecondaryHeaderPosition(VisualOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.SecondaryHeaderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_SecondaryHeaderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.SecondaryHeaderStyleSetHeaderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_SecondaryHeaderStyle(HeaderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.StackAlignmentGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_StackAlignment()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.StackAlignmentSetRelativePositionAlign">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_StackAlignment(RelativePositionAlign value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.StackOrientationGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_StackOrientation()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.StackOrientationSetOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_StackOrientation(Orientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.TabBorderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_TabBorderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.TabBorderStyleSetTabBorderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_TabBorderStyle(TabBorderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.TabStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_TabStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.AllInstances.TabStyleSetTabStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_TabStyle(TabStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.BarHeaderPositionGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_BarHeaderPosition()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.BarHeaderPositionSetVisualOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_BarHeaderPosition(VisualOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.BarHeaderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_BarHeaderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.BarHeaderStyleSetHeaderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_BarHeaderStyle(HeaderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.BarOrientationGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_BarOrientation()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.BarOrientationSetVisualOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_BarOrientation(VisualOrientation value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ButtonDisplayLogicGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ButtonDisplayLogic()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ButtonDisplayLogicSetButtonDisplayLogic">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ButtonDisplayLogic(ButtonDisplayLogic value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CheckButtonStyleBarGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CheckButtonStyleBar()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CheckButtonStyleBarSetButtonStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CheckButtonStyleBar(ButtonStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CheckButtonStyleOutlookGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CheckButtonStyleOutlook()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CheckButtonStyleOutlookSetButtonStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CheckButtonStyleOutlook(ButtonStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CheckButtonStyleStackGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CheckButtonStyleStack()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CheckButtonStyleStackSetButtonStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CheckButtonStyleStack(ButtonStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ClearPages">
+            <summary>Sets the shim of KryptonNavigatorActionList.ClearPages()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CloseButtonActionGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CloseButtonAction()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CloseButtonActionSetCloseButtonAction">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CloseButtonAction(CloseButtonAction value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CloseButtonDisplayGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_CloseButtonDisplay()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.CloseButtonDisplaySetButtonDisplay">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_CloseButtonDisplay(ButtonDisplay value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ConstructorKryptonNavigatorDesigner">
+            <summary>Sets the shim of KryptonNavigatorActionList.KryptonNavigatorActionList(KryptonNavigatorDesigner owner)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.GetSortedActionItems">
+            <summary>Sets the shim of KryptonNavigatorActionList.GetSortedActionItems()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.GroupBackStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_GroupBackStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.GroupBackStyleSetPaletteBackStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_GroupBackStyle(PaletteBackStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.GroupBorderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_GroupBorderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.GroupBorderStyleSetPaletteBorderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_GroupBorderStyle(PaletteBorderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemAlignmentGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemAlignment()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemAlignmentSetRelativePositionAlign">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemAlignment(RelativePositionAlign value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemOrientationBarGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemOrientationBar()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemOrientationBarSetButtonOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemOrientationBar(ButtonOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemOrientationOutlookGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemOrientationOutlook()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemOrientationOutlookSetButtonOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemOrientationOutlook(ButtonOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemOrientationStackGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemOrientationStack()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemOrientationStackSetButtonOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemOrientationStack(ButtonOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemSizingGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_ItemSizing()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.ItemSizingSetBarItemSizing">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_ItemSizing(BarItemSizing value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.NavigatorModeGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_NavigatorMode()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.NavigatorModeSetNavigatorMode">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_NavigatorMode(NavigatorMode value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.OnVisibleClickObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorActionList.OnVisibleClick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.OutlookOrientationGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_OutlookOrientation()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.OutlookOrientationSetOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_OutlookOrientation(Orientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.PageBackStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_PageBackStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.PageBackStyleSetPaletteBackStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_PageBackStyle(PaletteBackStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.PanelBackStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_PanelBackStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.PanelBackStyleSetPaletteBackStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_PanelBackStyle(PaletteBackStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.PrimaryHeaderPositionGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_PrimaryHeaderPosition()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.PrimaryHeaderPositionSetVisualOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_PrimaryHeaderPosition(VisualOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.PrimaryHeaderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_PrimaryHeaderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.PrimaryHeaderStyleSetHeaderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_PrimaryHeaderStyle(HeaderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.RemovePage">
+            <summary>Sets the shim of KryptonNavigatorActionList.RemovePage()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.SecondaryHeaderOutlookVisibleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_SecondaryHeaderOutlookVisible()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.SecondaryHeaderOutlookVisibleSetInheritBool">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_SecondaryHeaderOutlookVisible(InheritBool value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.SecondaryHeaderPositionGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_SecondaryHeaderPosition()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.SecondaryHeaderPositionSetVisualOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_SecondaryHeaderPosition(VisualOrientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.SecondaryHeaderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_SecondaryHeaderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.SecondaryHeaderStyleSetHeaderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_SecondaryHeaderStyle(HeaderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.StackAlignmentGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_StackAlignment()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.StackAlignmentSetRelativePositionAlign">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_StackAlignment(RelativePositionAlign value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.StackOrientationGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_StackOrientation()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.StackOrientationSetOrientation">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_StackOrientation(Orientation value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.TabBorderStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_TabBorderStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.TabBorderStyleSetTabBorderStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_TabBorderStyle(TabBorderStyle value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.TabStyleGet">
+            <summary>Sets the shim of KryptonNavigatorActionList.get_TabStyle()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorActionList.TabStyleSetTabStyle">
+            <summary>Sets the shim of KryptonNavigatorActionList.set_TabStyle(TabStyle value)</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner">
+            <summary>Shim type of ComponentFactory.Krypton.Navigator.KryptonNavigatorDesigner</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.#ctor(ComponentFactory.Krypton.Navigator.KryptonNavigatorDesigner)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.ActionListsGet">
+            <summary>Sets the shim of KryptonNavigatorDesigner.get_ActionLists()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AddPage">
+            <summary>Sets the shim of KryptonNavigatorDesigner.AddPage()</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.ActionListsGet">
+            <summary>Sets the shim of KryptonNavigatorDesigner.get_ActionLists()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.AddPage">
+            <summary>Sets the shim of KryptonNavigatorDesigner.AddPage()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.AssociatedComponentsGet">
+            <summary>Sets the shim of KryptonNavigatorDesigner.get_AssociatedComponents()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.CanParentControl">
+            <summary>Sets the shim of KryptonNavigatorDesigner.CanParent(Control control)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.ClearPages">
+            <summary>Sets the shim of KryptonNavigatorDesigner.ClearPages()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.DisposeBoolean">
+            <summary>Sets the shim of KryptonNavigatorDesigner.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.GetHitTestPoint">
+            <summary>Sets the shim of KryptonNavigatorDesigner.GetHitTest(Point point)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.InitializeIComponent">
+            <summary>Sets the shim of KryptonNavigatorDesigner.Initialize(IComponent component)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.InitializeNewComponentIDictionary">
+            <summary>Sets the shim of KryptonNavigatorDesigner.InitializeNewComponent(IDictionary defaultValues)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.InternalControlDesignerInt32">
+            <summary>Sets the shim of KryptonNavigatorDesigner.InternalControlDesigner(Int32 internalControlIndex)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.MarkSelectionAsChanged">
+            <summary>Sets the shim of KryptonNavigatorDesigner.MarkSelectionAsChanged()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.NavigatorGet">
+            <summary>Sets the shim of KryptonNavigatorDesigner.get_Navigator()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.NumberOfInternalControlDesigners">
+            <summary>Sets the shim of KryptonNavigatorDesigner.NumberOfInternalControlDesigners()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnAddPageObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnAddPage(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnClearPagesObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnClearPages(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnComponentRemovingObjectComponentEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnComponentRemoving(Object sender, ComponentEventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnDragDropDragEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnDragDrop(DragEventArgs de)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnDragEnterDragEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnDragEnter(DragEventArgs de)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnDragOverDragEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnDragOver(DragEventArgs de)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnMouseLeave">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnMouseLeave()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnNavigatorDoubleClickObjectPoint">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnNavigatorDoubleClick(Object sender, Point pt)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnNavigatorMouseUpObjectMouseEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnNavigatorMouseUp(Object sender, MouseEventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnPageInsertedObjectTypedCollectionEventArgsOfKryptonPage">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnPageInserted(Object sender, TypedCollectionEventArgs`1&lt;KryptonPage&gt; e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnPageRemovedObjectTypedCollectionEventArgsOfKryptonPage">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnPageRemoved(Object sender, TypedCollectionEventArgs`1&lt;KryptonPage&gt; e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnPagesClearedObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnPagesCleared(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnRemovePageObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnRemovePage(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.OnSelectedPageChangedObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnSelectedPageChanged(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.RemovePage">
+            <summary>Sets the shim of KryptonNavigatorDesigner.RemovePage()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.UpdateVerbStatus">
+            <summary>Sets the shim of KryptonNavigatorDesigner.UpdateVerbStatus()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AllInstances.VerbsGet">
+            <summary>Sets the shim of KryptonNavigatorDesigner.get_Verbs()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.AssociatedComponentsGet">
+            <summary>Sets the shim of KryptonNavigatorDesigner.get_AssociatedComponents()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.Bind(System.ComponentModel.Design.IComponentInitializer)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.Bind(System.ComponentModel.Design.IDesigner)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.Bind(System.ComponentModel.Design.IDesignerFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.Bind(System.ComponentModel.Design.ITreeDesigner)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.CanParentControl">
+            <summary>Sets the shim of KryptonNavigatorDesigner.CanParent(Control control)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.ClearPages">
+            <summary>Sets the shim of KryptonNavigatorDesigner.ClearPages()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.Constructor">
+            <summary>Sets the shim of KryptonNavigatorDesigner.KryptonNavigatorDesigner()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.DisposeBoolean">
+            <summary>Sets the shim of KryptonNavigatorDesigner.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.GetHitTestPoint">
+            <summary>Sets the shim of KryptonNavigatorDesigner.GetHitTest(Point point)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.InitializeIComponent">
+            <summary>Sets the shim of KryptonNavigatorDesigner.Initialize(IComponent component)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.InitializeNewComponentIDictionary">
+            <summary>Sets the shim of KryptonNavigatorDesigner.InitializeNewComponent(IDictionary defaultValues)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.InternalControlDesignerInt32">
+            <summary>Sets the shim of KryptonNavigatorDesigner.InternalControlDesigner(Int32 internalControlIndex)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.MarkSelectionAsChanged">
+            <summary>Sets the shim of KryptonNavigatorDesigner.MarkSelectionAsChanged()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.NavigatorGet">
+            <summary>Sets the shim of KryptonNavigatorDesigner.get_Navigator()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.NumberOfInternalControlDesigners">
+            <summary>Sets the shim of KryptonNavigatorDesigner.NumberOfInternalControlDesigners()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnAddPageObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnAddPage(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnClearPagesObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnClearPages(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnComponentRemovingObjectComponentEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnComponentRemoving(Object sender, ComponentEventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnDragDropDragEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnDragDrop(DragEventArgs de)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnDragEnterDragEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnDragEnter(DragEventArgs de)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnDragOverDragEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnDragOver(DragEventArgs de)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnMouseLeave">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnMouseLeave()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnNavigatorDoubleClickObjectPoint">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnNavigatorDoubleClick(Object sender, Point pt)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnNavigatorMouseUpObjectMouseEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnNavigatorMouseUp(Object sender, MouseEventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnPageInsertedObjectTypedCollectionEventArgsOfKryptonPage">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnPageInserted(Object sender, TypedCollectionEventArgs`1&lt;KryptonPage&gt; e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnPageRemovedObjectTypedCollectionEventArgsOfKryptonPage">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnPageRemoved(Object sender, TypedCollectionEventArgs`1&lt;KryptonPage&gt; e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnPagesClearedObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnPagesCleared(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnRemovePageObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnRemovePage(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.OnSelectedPageChangedObjectEventArgs">
+            <summary>Sets the shim of KryptonNavigatorDesigner.OnSelectedPageChanged(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.RemovePage">
+            <summary>Sets the shim of KryptonNavigatorDesigner.RemovePage()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.UpdateVerbStatus">
+            <summary>Sets the shim of KryptonNavigatorDesigner.UpdateVerbStatus()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.ShimKryptonNavigatorDesigner.VerbsGet">
+            <summary>Sets the shim of KryptonNavigatorDesigner.get_Verbs()</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList">
+            <summary>Stub type of ComponentFactory.Krypton.Navigator.KryptonNavigatorActionList</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.#ctor(ComponentFactory.Krypton.Navigator.KryptonNavigatorDesigner)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.AttachBackingFieldToAutoShow">
+            <summary>Attaches delegates to emulate StubKryptonNavigatorActionList.AutoShow as a property with a backing field.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.AutoShow">
+            <summary>Sets the stub of DesignerActionList.get_AutoShow()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.AutoShowGet">
+            <summary>Sets the stub of DesignerActionList.get_AutoShow()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.AutoShowSetBoolean">
+            <summary>Sets the stub of DesignerActionList.set_AutoShow(Boolean value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.GetSortedActionItems">
+            <summary>Sets the stub of KryptonNavigatorActionList.GetSortedActionItems()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.GetSortedActionItems01">
+            <summary>Sets the stub of KryptonNavigatorActionList.GetSortedActionItems()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.InitializeStub">
+            <summary>Initializes a new instance of type StubKryptonNavigatorActionList</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorActionList.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner">
+            <summary>Stub type of ComponentFactory.Krypton.Navigator.KryptonNavigatorDesigner</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AccessibilityObject">
+            <summary>Sets the stub of ControlDesigner.get_AccessibilityObject()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AccessibilityObjectGet">
+            <summary>Sets the stub of ControlDesigner.get_AccessibilityObject()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.ActionLists">
+            <summary>Sets the stub of KryptonNavigatorDesigner.get_ActionLists()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.ActionListsGet">
+            <summary>Sets the stub of KryptonNavigatorDesigner.get_ActionLists()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AllowControlLasso">
+            <summary>Sets the stub of ParentControlDesigner.get_AllowControlLasso()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AllowControlLassoGet">
+            <summary>Sets the stub of ParentControlDesigner.get_AllowControlLasso()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AllowGenericDragBox">
+            <summary>Sets the stub of ParentControlDesigner.get_AllowGenericDragBox()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AllowGenericDragBoxGet">
+            <summary>Sets the stub of ParentControlDesigner.get_AllowGenericDragBox()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AllowSetChildIndexOnDrop">
+            <summary>Sets the stub of ParentControlDesigner.get_AllowSetChildIndexOnDrop()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AllowSetChildIndexOnDropGet">
+            <summary>Sets the stub of ParentControlDesigner.get_AllowSetChildIndexOnDrop()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AssociatedComponents">
+            <summary>Sets the stub of KryptonNavigatorDesigner.get_AssociatedComponents()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AssociatedComponentsGet">
+            <summary>Sets the stub of KryptonNavigatorDesigner.get_AssociatedComponents()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.AttachBackingFieldToDrawGrid">
+            <summary>Attaches delegates to emulate StubKryptonNavigatorDesigner.DrawGrid as a property with a backing field.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CanAddComponent(System.ComponentModel.IComponent)">
+            <summary>Sets the stub of ParentControlDesigner.CanAddComponent(IComponent component)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CanAddComponentIComponent">
+            <summary>Sets the stub of ParentControlDesigner.CanAddComponent(IComponent component)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CanBeParentedTo(System.ComponentModel.Design.IDesigner)">
+            <summary>Sets the stub of ControlDesigner.CanBeParentedTo(IDesigner parentDesigner)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CanBeParentedToIDesigner">
+            <summary>Sets the stub of ControlDesigner.CanBeParentedTo(IDesigner parentDesigner)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CanParent(System.Windows.Forms.Design.ControlDesigner)">
+            <summary>Sets the stub of ParentControlDesigner.CanParent(ControlDesigner controlDesigner)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CanParent(System.Windows.Forms.Control)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.CanParent(Control control)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CanParentControl">
+            <summary>Sets the stub of KryptonNavigatorDesigner.CanParent(Control control)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CanParentControlDesigner">
+            <summary>Sets the stub of ParentControlDesigner.CanParent(ControlDesigner controlDesigner)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.Control">
+            <summary>Sets the stub of ControlDesigner.get_Control()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.ControlGet">
+            <summary>Sets the stub of ControlDesigner.get_Control()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CreateToolCore(System.Drawing.Design.ToolboxItem,System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Boolean)">
+            <summary>Sets the stub of ParentControlDesigner.CreateToolCore(ToolboxItem tool, Int32 x, Int32 y, Int32 width, Int32 height, Boolean hasLocation, Boolean hasSize)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.CreateToolCoreToolboxItemInt32Int32Int32Int32BooleanBoolean">
+            <summary>Sets the stub of ParentControlDesigner.CreateToolCore(ToolboxItem tool, Int32 x, Int32 y, Int32 width, Int32 height, Boolean hasLocation, Boolean hasSize)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.DefaultControlLocation">
+            <summary>Sets the stub of ParentControlDesigner.get_DefaultControlLocation()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.DefaultControlLocationGet">
+            <summary>Sets the stub of ParentControlDesigner.get_DefaultControlLocation()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.Dispose(System.Boolean)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.DisposeBoolean">
+            <summary>Sets the stub of KryptonNavigatorDesigner.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.DoDefaultAction">
+            <summary>Sets the stub of ComponentDesigner.DoDefaultAction()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.DoDefaultAction01">
+            <summary>Sets the stub of ComponentDesigner.DoDefaultAction()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.DrawGrid">
+            <summary>Sets the stub of ParentControlDesigner.get_DrawGrid()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.DrawGridGet">
+            <summary>Sets the stub of ParentControlDesigner.get_DrawGrid()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.DrawGridSetBoolean">
+            <summary>Sets the stub of ParentControlDesigner.set_DrawGrid(Boolean value)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.EnableDragRect">
+            <summary>Sets the stub of ParentControlDesigner.get_EnableDragRect()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.EnableDragRectGet">
+            <summary>Sets the stub of ParentControlDesigner.get_EnableDragRect()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetControlGlyph(System.Windows.Forms.Design.Behavior.GlyphSelectionType)">
+            <summary>Sets the stub of ParentControlDesigner.GetControlGlyph(GlyphSelectionType selectionType)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetControlGlyphGlyphSelectionType">
+            <summary>Sets the stub of ParentControlDesigner.GetControlGlyph(GlyphSelectionType selectionType)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetGlyphs(System.Windows.Forms.Design.Behavior.GlyphSelectionType)">
+            <summary>Sets the stub of ParentControlDesigner.GetGlyphs(GlyphSelectionType selectionType)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetGlyphsGlyphSelectionType">
+            <summary>Sets the stub of ParentControlDesigner.GetGlyphs(GlyphSelectionType selectionType)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetHitTest(System.Drawing.Point)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.GetHitTest(Point point)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetHitTestPoint">
+            <summary>Sets the stub of KryptonNavigatorDesigner.GetHitTest(Point point)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetParentForComponent(System.ComponentModel.IComponent)">
+            <summary>Sets the stub of ParentControlDesigner.GetParentForComponent(IComponent component)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetParentForComponentIComponent">
+            <summary>Sets the stub of ParentControlDesigner.GetParentForComponent(IComponent component)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetService(System.Type)">
+            <summary>Sets the stub of ComponentDesigner.GetService(Type serviceType)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.GetServiceType">
+            <summary>Sets the stub of ComponentDesigner.GetService(Type serviceType)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InheritanceAttribute">
+            <summary>Sets the stub of ControlDesigner.get_InheritanceAttribute()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InheritanceAttributeGet">
+            <summary>Sets the stub of ControlDesigner.get_InheritanceAttribute()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.Initialize(System.ComponentModel.IComponent)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.Initialize(IComponent component)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InitializeExistingComponent(System.Collections.IDictionary)">
+            <summary>Sets the stub of ControlDesigner.InitializeExistingComponent(IDictionary defaultValues)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InitializeExistingComponentIDictionary">
+            <summary>Sets the stub of ControlDesigner.InitializeExistingComponent(IDictionary defaultValues)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InitializeIComponent">
+            <summary>Sets the stub of KryptonNavigatorDesigner.Initialize(IComponent component)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InitializeNewComponent(System.Collections.IDictionary)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.InitializeNewComponent(IDictionary defaultValues)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InitializeNewComponentIDictionary">
+            <summary>Sets the stub of KryptonNavigatorDesigner.InitializeNewComponent(IDictionary defaultValues)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InitializeNonDefault">
+            <summary>Sets the stub of ComponentDesigner.InitializeNonDefault()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InitializeNonDefault01">
+            <summary>Sets the stub of ComponentDesigner.InitializeNonDefault()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InitializeStub">
+            <summary>Initializes a new instance of type StubKryptonNavigatorDesigner</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InternalControlDesigner(System.Int32)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.InternalControlDesigner(Int32 internalControlIndex)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.InternalControlDesignerInt32">
+            <summary>Sets the stub of KryptonNavigatorDesigner.InternalControlDesigner(Int32 internalControlIndex)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.NumberOfInternalControlDesigners">
+            <summary>Sets the stub of KryptonNavigatorDesigner.NumberOfInternalControlDesigners()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.NumberOfInternalControlDesigners01">
+            <summary>Sets the stub of KryptonNavigatorDesigner.NumberOfInternalControlDesigners()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnComponentRemoving(System.Object,System.ComponentModel.Design.ComponentEventArgs)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnComponentRemoving(Object sender, ComponentEventArgs e)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnComponentRemovingObjectComponentEventArgs">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnComponentRemoving(Object sender, ComponentEventArgs e)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnContextMenu(System.Int32,System.Int32)">
+            <summary>Sets the stub of ControlDesigner.OnContextMenu(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnContextMenuInt32Int32">
+            <summary>Sets the stub of ControlDesigner.OnContextMenu(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnCreateHandle">
+            <summary>Sets the stub of ControlDesigner.OnCreateHandle()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnCreateHandle01">
+            <summary>Sets the stub of ControlDesigner.OnCreateHandle()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragComplete(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of ParentControlDesigner.OnDragComplete(DragEventArgs de)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragCompleteDragEventArgs">
+            <summary>Sets the stub of ParentControlDesigner.OnDragComplete(DragEventArgs de)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragDrop(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnDragDrop(DragEventArgs de)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragDropDragEventArgs">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnDragDrop(DragEventArgs de)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragEnter(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnDragEnter(DragEventArgs de)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragEnterDragEventArgs">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnDragEnter(DragEventArgs de)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragLeave(System.EventArgs)">
+            <summary>Sets the stub of ParentControlDesigner.OnDragLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragLeaveEventArgs">
+            <summary>Sets the stub of ParentControlDesigner.OnDragLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragOver(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnDragOver(DragEventArgs de)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnDragOverDragEventArgs">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnDragOver(DragEventArgs de)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)">
+            <summary>Sets the stub of ControlDesigner.OnGiveFeedback(GiveFeedbackEventArgs e)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnGiveFeedbackGiveFeedbackEventArgs">
+            <summary>Sets the stub of ControlDesigner.OnGiveFeedback(GiveFeedbackEventArgs e)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseDragBegin(System.Int32,System.Int32)">
+            <summary>Sets the stub of ParentControlDesigner.OnMouseDragBegin(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseDragBeginInt32Int32">
+            <summary>Sets the stub of ParentControlDesigner.OnMouseDragBegin(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseDragEnd(System.Boolean)">
+            <summary>Sets the stub of ParentControlDesigner.OnMouseDragEnd(Boolean cancel)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseDragEndBoolean">
+            <summary>Sets the stub of ParentControlDesigner.OnMouseDragEnd(Boolean cancel)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseDragMove(System.Int32,System.Int32)">
+            <summary>Sets the stub of ParentControlDesigner.OnMouseDragMove(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseDragMoveInt32Int32">
+            <summary>Sets the stub of ParentControlDesigner.OnMouseDragMove(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseEnter">
+            <summary>Sets the stub of ControlDesigner.OnMouseEnter()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseEnter01">
+            <summary>Sets the stub of ControlDesigner.OnMouseEnter()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseHover">
+            <summary>Sets the stub of ControlDesigner.OnMouseHover()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseHover01">
+            <summary>Sets the stub of ControlDesigner.OnMouseHover()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseLeave">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnMouseLeave()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnMouseLeave01">
+            <summary>Sets the stub of KryptonNavigatorDesigner.OnMouseLeave()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnPaintAdornments(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the stub of ParentControlDesigner.OnPaintAdornments(PaintEventArgs pe)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnPaintAdornmentsPaintEventArgs">
+            <summary>Sets the stub of ParentControlDesigner.OnPaintAdornments(PaintEventArgs pe)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnSetComponentDefaults">
+            <summary>Sets the stub of ControlDesigner.OnSetComponentDefaults()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnSetComponentDefaults01">
+            <summary>Sets the stub of ControlDesigner.OnSetComponentDefaults()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnSetCursor">
+            <summary>Sets the stub of ParentControlDesigner.OnSetCursor()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.OnSetCursor01">
+            <summary>Sets the stub of ParentControlDesigner.OnSetCursor()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.ParentComponent">
+            <summary>Sets the stub of ControlDesigner.get_ParentComponent()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.ParentComponentGet">
+            <summary>Sets the stub of ControlDesigner.get_ParentComponent()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.ParticipatesWithSnapLines">
+            <summary>Sets the stub of ControlDesigner.get_ParticipatesWithSnapLines()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.ParticipatesWithSnapLinesGet">
+            <summary>Sets the stub of ControlDesigner.get_ParticipatesWithSnapLines()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PostFilterAttributes(System.Collections.IDictionary)">
+            <summary>Sets the stub of ComponentDesigner.PostFilterAttributes(IDictionary attributes)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PostFilterAttributesIDictionary">
+            <summary>Sets the stub of ComponentDesigner.PostFilterAttributes(IDictionary attributes)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PostFilterEvents(System.Collections.IDictionary)">
+            <summary>Sets the stub of ComponentDesigner.PostFilterEvents(IDictionary events)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PostFilterEventsIDictionary">
+            <summary>Sets the stub of ComponentDesigner.PostFilterEvents(IDictionary events)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PostFilterProperties(System.Collections.IDictionary)">
+            <summary>Sets the stub of ComponentDesigner.PostFilterProperties(IDictionary properties)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PostFilterPropertiesIDictionary">
+            <summary>Sets the stub of ComponentDesigner.PostFilterProperties(IDictionary properties)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PreFilterAttributes(System.Collections.IDictionary)">
+            <summary>Sets the stub of ComponentDesigner.PreFilterAttributes(IDictionary attributes)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PreFilterAttributesIDictionary">
+            <summary>Sets the stub of ComponentDesigner.PreFilterAttributes(IDictionary attributes)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PreFilterEvents(System.Collections.IDictionary)">
+            <summary>Sets the stub of ComponentDesigner.PreFilterEvents(IDictionary events)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PreFilterEventsIDictionary">
+            <summary>Sets the stub of ComponentDesigner.PreFilterEvents(IDictionary events)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PreFilterProperties(System.Collections.IDictionary)">
+            <summary>Sets the stub of ParentControlDesigner.PreFilterProperties(IDictionary properties)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.PreFilterPropertiesIDictionary">
+            <summary>Sets the stub of ParentControlDesigner.PreFilterProperties(IDictionary properties)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.SelectionRules">
+            <summary>Sets the stub of ControlDesigner.get_SelectionRules()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.SelectionRulesGet">
+            <summary>Sets the stub of ControlDesigner.get_SelectionRules()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.SnapLines">
+            <summary>Sets the stub of ParentControlDesigner.get_SnapLines()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.SnapLinesGet">
+            <summary>Sets the stub of ParentControlDesigner.get_SnapLines()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.Verbs">
+            <summary>Sets the stub of KryptonNavigatorDesigner.get_Verbs()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.VerbsGet">
+            <summary>Sets the stub of KryptonNavigatorDesigner.get_Verbs()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.WndProc(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of ControlDesigner.WndProc(Message&amp; m)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Navigator.Fakes.StubKryptonNavigatorDesigner.WndProcMessageRef">
+            <summary>Sets the stub of ControlDesigner.WndProc(Message&amp; m)</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor">
+            <summary>Shim type of ComponentFactory.Krypton.Toolkit.KryptonContextMenuCollectionEditor</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.#ctor(ComponentFactory.Krypton.Toolkit.KryptonContextMenuCollectionEditor)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.AllInstances.CreateNewItemTypes">
+            <summary>Sets the shim of KryptonContextMenuCollectionEditor.CreateNewItemTypes()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.Constructor">
+            <summary>Sets the shim of KryptonContextMenuCollectionEditor.KryptonContextMenuCollectionEditor()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuCollectionEditor.CreateNewItemTypes">
+            <summary>Sets the shim of KryptonContextMenuCollectionEditor.CreateNewItemTypes()</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor">
+            <summary>Shim type of ComponentFactory.Krypton.Toolkit.KryptonContextMenuItemCollectionEditor</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.#ctor(ComponentFactory.Krypton.Toolkit.KryptonContextMenuItemCollectionEditor)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.AllInstances.CreateNewItemTypes">
+            <summary>Sets the shim of KryptonContextMenuItemCollectionEditor.CreateNewItemTypes()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.Constructor">
+            <summary>Sets the shim of KryptonContextMenuItemCollectionEditor.KryptonContextMenuItemCollectionEditor()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonContextMenuItemCollectionEditor.CreateNewItemTypes">
+            <summary>Sets the shim of KryptonContextMenuItemCollectionEditor.CreateNewItemTypes()</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem">
+            <summary>Shim type of ComponentFactory.Krypton.Toolkit.KryptonDesignerActionItem</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.#ctor(ComponentFactory.Krypton.Toolkit.KryptonDesignerActionItem)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.AllInstances.CategoryGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_Category()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.AllInstances.DescriptionGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_Description()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.AllInstances.DisplayNameGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_DisplayName()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.AllInstances.IncludeAsDesignerVerbGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_IncludeAsDesignerVerb()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.AllInstances.Invoke">
+            <summary>Sets the shim of KryptonDesignerActionItem.Invoke()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.AllInstances.MemberNameGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_MemberName()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.CategoryGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_Category()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.ConstructorDesignerVerbString">
+            <summary>Sets the shim of KryptonDesignerActionItem.KryptonDesignerActionItem(DesignerVerb verb, String category)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.DescriptionGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_Description()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.DisplayNameGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_DisplayName()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.IncludeAsDesignerVerbGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_IncludeAsDesignerVerb()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.Invoke">
+            <summary>Sets the shim of KryptonDesignerActionItem.Invoke()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.ShimKryptonDesignerActionItem.MemberNameGet">
+            <summary>Sets the shim of KryptonDesignerActionItem.get_MemberName()</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor">
+            <summary>Stub type of ComponentFactory.Krypton.Toolkit.KryptonContextMenuCollectionEditor</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CanRemoveInstance(System.Object)">
+            <summary>Sets the stub of CollectionEditor.CanRemoveInstance(Object value)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CanRemoveInstanceObject">
+            <summary>Sets the stub of CollectionEditor.CanRemoveInstance(Object value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CanSelectMultipleInstances">
+            <summary>Sets the stub of CollectionEditor.CanSelectMultipleInstances()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CanSelectMultipleInstances01">
+            <summary>Sets the stub of CollectionEditor.CanSelectMultipleInstances()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CancelChanges">
+            <summary>Sets the stub of CollectionEditor.CancelChanges()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CancelChanges01">
+            <summary>Sets the stub of CollectionEditor.CancelChanges()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CreateCollectionForm">
+            <summary>Sets the stub of KryptonContextMenuCollectionEditor.CreateCollectionForm()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CreateCollectionForm01">
+            <summary>Sets the stub of KryptonContextMenuCollectionEditor.CreateCollectionForm()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CreateCollectionItemType">
+            <summary>Sets the stub of CollectionEditor.CreateCollectionItemType()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CreateCollectionItemType01">
+            <summary>Sets the stub of CollectionEditor.CreateCollectionItemType()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CreateNewItemTypes">
+            <summary>Sets the stub of KryptonContextMenuCollectionEditor.CreateNewItemTypes()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.CreateNewItemTypes01">
+            <summary>Sets the stub of KryptonContextMenuCollectionEditor.CreateNewItemTypes()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.DestroyInstance(System.Object)">
+            <summary>Sets the stub of CollectionEditor.DestroyInstance(Object instance)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.DestroyInstanceObject">
+            <summary>Sets the stub of CollectionEditor.DestroyInstance(Object instance)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.EditValue(System.ComponentModel.ITypeDescriptorContext,System.IServiceProvider,System.Object)">
+            <summary>Sets the stub of CollectionEditor.EditValue(ITypeDescriptorContext context, IServiceProvider provider, Object value)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.EditValueITypeDescriptorContextIServiceProviderObject">
+            <summary>Sets the stub of CollectionEditor.EditValue(ITypeDescriptorContext context, IServiceProvider provider, Object value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetDisplayText(System.Object)">
+            <summary>Sets the stub of CollectionEditor.GetDisplayText(Object value)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetDisplayTextObject">
+            <summary>Sets the stub of CollectionEditor.GetDisplayText(Object value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetEditStyle(System.ComponentModel.ITypeDescriptorContext)">
+            <summary>Sets the stub of CollectionEditor.GetEditStyle(ITypeDescriptorContext context)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetEditStyleITypeDescriptorContext">
+            <summary>Sets the stub of CollectionEditor.GetEditStyle(ITypeDescriptorContext context)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetItems(System.Object)">
+            <summary>Sets the stub of CollectionEditor.GetItems(Object editValue)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetItemsObject">
+            <summary>Sets the stub of CollectionEditor.GetItems(Object editValue)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetObjectsFromInstance(System.Object)">
+            <summary>Sets the stub of CollectionEditor.GetObjectsFromInstance(Object instance)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetObjectsFromInstanceObject">
+            <summary>Sets the stub of CollectionEditor.GetObjectsFromInstance(Object instance)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetPaintValueSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <summary>Sets the stub of UITypeEditor.GetPaintValueSupported(ITypeDescriptorContext context)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.GetPaintValueSupportedITypeDescriptorContext">
+            <summary>Sets the stub of UITypeEditor.GetPaintValueSupported(ITypeDescriptorContext context)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.HelpTopic">
+            <summary>Sets the stub of CollectionEditor.get_HelpTopic()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.HelpTopicGet">
+            <summary>Sets the stub of CollectionEditor.get_HelpTopic()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.InitializeStub">
+            <summary>Initializes a new instance of type StubKryptonContextMenuCollectionEditor</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.IsDropDownResizable">
+            <summary>Sets the stub of UITypeEditor.get_IsDropDownResizable()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.IsDropDownResizableGet">
+            <summary>Sets the stub of UITypeEditor.get_IsDropDownResizable()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.PaintValue(System.Drawing.Design.PaintValueEventArgs)">
+            <summary>Sets the stub of UITypeEditor.PaintValue(PaintValueEventArgs e)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.PaintValuePaintValueEventArgs">
+            <summary>Sets the stub of UITypeEditor.PaintValue(PaintValueEventArgs e)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.SetItems(System.Object,System.Object[])">
+            <summary>Sets the stub of CollectionEditor.SetItems(Object editValue, Object[] value)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.SetItemsObjectObjectArray">
+            <summary>Sets the stub of CollectionEditor.SetItems(Object editValue, Object[] value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.ShowHelp">
+            <summary>Sets the stub of CollectionEditor.ShowHelp()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuCollectionEditor.ShowHelp01">
+            <summary>Sets the stub of CollectionEditor.ShowHelp()</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor">
+            <summary>Stub type of ComponentFactory.Krypton.Toolkit.KryptonContextMenuItemCollectionEditor</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CanRemoveInstance(System.Object)">
+            <summary>Sets the stub of CollectionEditor.CanRemoveInstance(Object value)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CanRemoveInstanceObject">
+            <summary>Sets the stub of CollectionEditor.CanRemoveInstance(Object value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CanSelectMultipleInstances">
+            <summary>Sets the stub of CollectionEditor.CanSelectMultipleInstances()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CanSelectMultipleInstances01">
+            <summary>Sets the stub of CollectionEditor.CanSelectMultipleInstances()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CancelChanges">
+            <summary>Sets the stub of CollectionEditor.CancelChanges()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CancelChanges01">
+            <summary>Sets the stub of CollectionEditor.CancelChanges()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CreateCollectionForm">
+            <summary>Sets the stub of CollectionEditor.CreateCollectionForm()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CreateCollectionForm01">
+            <summary>Sets the stub of CollectionEditor.CreateCollectionForm()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CreateCollectionItemType">
+            <summary>Sets the stub of CollectionEditor.CreateCollectionItemType()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CreateCollectionItemType01">
+            <summary>Sets the stub of CollectionEditor.CreateCollectionItemType()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CreateNewItemTypes">
+            <summary>Sets the stub of KryptonContextMenuItemCollectionEditor.CreateNewItemTypes()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.CreateNewItemTypes01">
+            <summary>Sets the stub of KryptonContextMenuItemCollectionEditor.CreateNewItemTypes()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.DestroyInstance(System.Object)">
+            <summary>Sets the stub of CollectionEditor.DestroyInstance(Object instance)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.DestroyInstanceObject">
+            <summary>Sets the stub of CollectionEditor.DestroyInstance(Object instance)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.EditValue(System.ComponentModel.ITypeDescriptorContext,System.IServiceProvider,System.Object)">
+            <summary>Sets the stub of CollectionEditor.EditValue(ITypeDescriptorContext context, IServiceProvider provider, Object value)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.EditValueITypeDescriptorContextIServiceProviderObject">
+            <summary>Sets the stub of CollectionEditor.EditValue(ITypeDescriptorContext context, IServiceProvider provider, Object value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetDisplayText(System.Object)">
+            <summary>Sets the stub of CollectionEditor.GetDisplayText(Object value)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetDisplayTextObject">
+            <summary>Sets the stub of CollectionEditor.GetDisplayText(Object value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetEditStyle(System.ComponentModel.ITypeDescriptorContext)">
+            <summary>Sets the stub of CollectionEditor.GetEditStyle(ITypeDescriptorContext context)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetEditStyleITypeDescriptorContext">
+            <summary>Sets the stub of CollectionEditor.GetEditStyle(ITypeDescriptorContext context)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetItems(System.Object)">
+            <summary>Sets the stub of CollectionEditor.GetItems(Object editValue)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetItemsObject">
+            <summary>Sets the stub of CollectionEditor.GetItems(Object editValue)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetObjectsFromInstance(System.Object)">
+            <summary>Sets the stub of CollectionEditor.GetObjectsFromInstance(Object instance)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetObjectsFromInstanceObject">
+            <summary>Sets the stub of CollectionEditor.GetObjectsFromInstance(Object instance)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetPaintValueSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <summary>Sets the stub of UITypeEditor.GetPaintValueSupported(ITypeDescriptorContext context)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.GetPaintValueSupportedITypeDescriptorContext">
+            <summary>Sets the stub of UITypeEditor.GetPaintValueSupported(ITypeDescriptorContext context)</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.HelpTopic">
+            <summary>Sets the stub of CollectionEditor.get_HelpTopic()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.HelpTopicGet">
+            <summary>Sets the stub of CollectionEditor.get_HelpTopic()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.InitializeStub">
+            <summary>Initializes a new instance of type StubKryptonContextMenuItemCollectionEditor</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.IsDropDownResizable">
+            <summary>Sets the stub of UITypeEditor.get_IsDropDownResizable()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.IsDropDownResizableGet">
+            <summary>Sets the stub of UITypeEditor.get_IsDropDownResizable()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.PaintValue(System.Drawing.Design.PaintValueEventArgs)">
+            <summary>Sets the stub of UITypeEditor.PaintValue(PaintValueEventArgs e)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.PaintValuePaintValueEventArgs">
+            <summary>Sets the stub of UITypeEditor.PaintValue(PaintValueEventArgs e)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.SetItems(System.Object,System.Object[])">
+            <summary>Sets the stub of CollectionEditor.SetItems(Object editValue, Object[] value)</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.SetItemsObjectObjectArray">
+            <summary>Sets the stub of CollectionEditor.SetItems(Object editValue, Object[] value)</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.ShowHelp">
+            <summary>Sets the stub of CollectionEditor.ShowHelp()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonContextMenuItemCollectionEditor.ShowHelp01">
+            <summary>Sets the stub of CollectionEditor.ShowHelp()</summary>
+        </member>
+        <member name="T:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem">
+            <summary>Stub type of ComponentFactory.Krypton.Toolkit.KryptonDesignerActionItem</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.#ctor(System.ComponentModel.Design.DesignerVerb,System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.Category">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_Category()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.CategoryGet">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_Category()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.Description">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_Description()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.DescriptionGet">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_Description()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.DisplayName">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_DisplayName()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.DisplayNameGet">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_DisplayName()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.IncludeAsDesignerVerb">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_IncludeAsDesignerVerb()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.IncludeAsDesignerVerbGet">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_IncludeAsDesignerVerb()</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.InitializeStub">
+            <summary>Initializes a new instance of type StubKryptonDesignerActionItem</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.Invoke">
+            <summary>Sets the stub of KryptonDesignerActionItem.Invoke()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.Invoke01">
+            <summary>Sets the stub of KryptonDesignerActionItem.Invoke()</summary>
+        </member>
+        <member name="P:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.MemberName">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_MemberName()</summary>
+        </member>
+        <member name="F:ComponentFactory.Krypton.Toolkit.Fakes.StubKryptonDesignerActionItem.MemberNameGet">
+            <summary>Sets the stub of KryptonDesignerActionItem.get_MemberName()</summary>
+        </member>
+    </members>
+</doc>

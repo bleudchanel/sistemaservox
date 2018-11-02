@@ -1,0 +1,11 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\bin\Debug\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\bin\Debug\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\obj\Debug\OpenInvoicePeru.Comun.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\obj\Debug\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\obj\Debug\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Comun\obj\Debug\OpenInvoicePeru.Comun.csprojAssemblyReference.cache
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Comun\bin\Debug\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Comun\bin\Debug\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Comun\obj\Debug\OpenInvoicePeru.Comun.csproj.CoreCompileInputs.cache
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Comun\obj\Debug\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\SistemaServox2015\OpenInvoice\OpenInvoicePeru.Comun\obj\Debug\OpenInvoicePeru.Comun.pdb

@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{22B7B8B3-6F88-42B9-995B-E53904643B4B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SistemaServox2015.My.MyApplication</StartupObject>
+    <RootNamespace>SistemaServox2015</RootNamespace>
+    <AssemblyName>SistemaServox2015</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/SistemaServox2015/</UpdateUrl>
+    <TargetCulture>es</TargetCulture>
+    <PublisherName>WUT</PublisherName>
+    <ApplicationRevision>66</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SistemaServox2015.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Optimize>false</Optimize>
+    <DefineConstants>
+    </DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SistemaServox2015.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A13865370DC37DA2DC2C7A5CE7466731C417B598</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SistemaServox2015GUI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>SistemaServox2015GUI_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Text.Rtf">
+      <HintPath>..\..\..\..\..\Enterprise\System.Text.Rtf.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Comisiones\frmMantenimientoComisiones.Designer.vb">
+      <DependentUpon>frmMantenimientoComisiones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comisiones\frmMantenimientoComisiones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\frmMantenimientoComprasSinIGV.Designer.vb">
+      <DependentUpon>frmMantenimientoComprasSinIGV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\frmMantenimientoComprasSinIGV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\MoneyTextBox0.Designer.vb">
+      <DependentUpon>MoneyTextBox0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MoneyTextBox0.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MoneyTextBox4.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MoneyTextBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MoneyTextBox8.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoEmpleado.Designer.vb">
+      <DependentUpon>frmMantenimientoEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVariablesGlobales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVariablesGlobales.Designer.vb">
+      <DependentUpon>frmVariablesGlobales.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscadorOperacion.Designer.vb">
+      <DependentUpon>frmBuscadorOperacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscadorOperacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoCliente.Designer.vb">
+      <DependentUpon>frmMantenimientoCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\frmMantenimientoComprasConIGV.Designer.vb">
+      <DependentUpon>frmMantenimientoComprasConIGV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\frmMantenimientoComprasConIGV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoProducto.Designer.vb">
+      <DependentUpon>frmMantenimientoProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoProveedor.Designer.vb">
+      <DependentUpon>frmMantenimientoProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Garantia\frmMantenimientoGarantia.Designer.vb">
+      <DependentUpon>frmMantenimientoGarantia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Garantia\frmMantenimientoGarantia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modInventario.vb" />
+    <Compile Include="OtrosGastos\frmMantenimientoOtrosGastos.Designer.vb">
+      <DependentUpon>frmMantenimientoOtrosGastos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OtrosGastos\frmMantenimientoOtrosGastos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proforma\frmMantenimientoProforma.Designer.vb">
+      <DependentUpon>frmMantenimientoProforma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Proforma\frmMantenimientoProforma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\crpHistorialProveedor.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crpHistorialProveedor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\crpKardexValorado.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crpKardexValorado.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\crpProductoAvanzadoAnual.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crpProductoAvanzadoAnual.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\crpProductoAvanzadoMensual.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crpProductoAvanzadoMensual.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\dsBaseReportes.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsBaseReportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\dsBaseReportes.vb">
+      <DependentUpon>dsBaseReportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmReporteProductoAvanzado.Designer.vb">
+      <DependentUpon>frmReporteProductoAvanzado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmReporteProductoAvanzado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmReportes.Designer.vb">
+      <DependentUpon>frmReportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmReportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmRepositorioReporte.Designer.vb">
+      <DependentUpon>frmRepositorioReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmRepositorioReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\frmCambiarPassword.Designer.vb">
+      <DependentUpon>frmCambiarPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\frmCambiarPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\frmLoginPrincipal.Designer.vb">
+      <DependentUpon>frmLoginPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\frmLoginPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transporte\frmMantenimientoTransporte.Designer.vb">
+      <DependentUpon>frmMantenimientoTransporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transporte\frmMantenimientoTransporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas Rapidas\frmMantenimientoVentasRapidas.Designer.vb">
+      <DependentUpon>frmMantenimientoVentasRapidas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas Rapidas\frmMantenimientoVentasRapidas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas Rapidas\frmVentaRapida.Designer.vb">
+      <DependentUpon>frmVentaRapida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas Rapidas\frmVentaRapida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\frmBusquedaPorCodigo.Designer.vb">
+      <DependentUpon>frmBusquedaPorCodigo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\frmBusquedaPorCodigo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\frmComision.Designer.vb">
+      <DependentUpon>frmComision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\frmComision.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\frmMantenimientoCodigosUnidad.Designer.vb">
+      <DependentUpon>frmMantenimientoCodigosUnidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\frmMantenimientoCodigosUnidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\frmMantenimientoVentas.Designer.vb">
+      <DependentUpon>frmMantenimientoVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\frmMantenimientoVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Comisiones\frmMantenimientoComisiones.resx">
+      <DependentUpon>frmMantenimientoComisiones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\frmMantenimientoComprasSinIGV.resx">
+      <DependentUpon>frmMantenimientoComprasSinIGV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVariablesGlobales.resx">
+      <DependentUpon>frmVariablesGlobales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoEmpleado.resx">
+      <DependentUpon>frmMantenimientoEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscadorOperacion.resx">
+      <DependentUpon>frmBuscadorOperacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoCliente.resx">
+      <DependentUpon>frmMantenimientoCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\frmMantenimientoComprasConIGV.resx">
+      <DependentUpon>frmMantenimientoComprasConIGV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoProducto.resx">
+      <DependentUpon>frmMantenimientoProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoProveedor.resx">
+      <DependentUpon>frmMantenimientoProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Garantia\frmMantenimientoGarantia.resx">
+      <DependentUpon>frmMantenimientoGarantia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtrosGastos\frmMantenimientoOtrosGastos.resx">
+      <DependentUpon>frmMantenimientoOtrosGastos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proforma\frmMantenimientoProforma.resx">
+      <DependentUpon>frmMantenimientoProforma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\crpHistorialProveedor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crpHistorialProveedor.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\crpKardexValorado.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crpKardexValorado.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\crpProductoAvanzadoAnual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crpProductoAvanzadoAnual.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\crpProductoAvanzadoMensual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crpProductoAvanzadoMensual.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmReporteProductoAvanzado.resx">
+      <DependentUpon>frmReporteProductoAvanzado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmReportes.resx">
+      <DependentUpon>frmReportes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmRepositorioReporte.resx">
+      <DependentUpon>frmRepositorioReporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\frmCambiarPassword.resx">
+      <DependentUpon>frmCambiarPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\frmLoginPrincipal.resx">
+      <DependentUpon>frmLoginPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transporte\frmMantenimientoTransporte.resx">
+      <DependentUpon>frmMantenimientoTransporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas Rapidas\frmMantenimientoVentasRapidas.resx">
+      <DependentUpon>frmMantenimientoVentasRapidas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas Rapidas\frmVentaRapida.resx">
+      <DependentUpon>frmVentaRapida.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\frmBusquedaPorCodigo.resx">
+      <DependentUpon>frmBusquedaPorCodigo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\frmComision.resx">
+      <DependentUpon>frmComision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\frmMantenimientoCodigosUnidad.resx">
+      <DependentUpon>frmMantenimientoCodigosUnidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\frmMantenimientoVentas.resx">
+      <DependentUpon>frmMantenimientoVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="SistemaServox2015GUI_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\pryUtil\pryUtil.vbproj">
+      <Project>{E26BED54-0EA0-4A11-98D9-150F9F95170F}</Project>
+      <Name>pryUtil</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SistemaServox2015BD\SistemaServox2015BD.vbproj">
+      <Project>{1d218778-c5e8-4bf3-b790-7858cd59d7a8}</Project>
+      <Name>SistemaServox2015BD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SistemaServox2015BN\SistemaServox2015BN.vbproj">
+      <Project>{67A4A01E-729A-4B70-B8EA-F3D940865733}</Project>
+      <Name>SistemaServox2015BN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SistemaServox2015BUS\SistemaServox2015BUS.vbproj">
+      <Project>{61BF94E0-38CA-4652-8017-2BB9410464FC}</Project>
+      <Name>SistemaServox2015BUS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reportes\dsBaseReportes.xsc">
+      <DependentUpon>dsBaseReportes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\dsBaseReportes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsBaseReportes.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Reportes\dsBaseReportes.xss">
+      <DependentUpon>dsBaseReportes.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_first.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_last.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_rotate_anticlockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_dollar.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>(if exist "$(TargetDir)*old.pdb" del "$(TargetDir)*old.pdb") &amp; (if exist "$(TargetDir)*.pdb" ren "$(TargetDir)*.pdb" *.old.pdb)</PreBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

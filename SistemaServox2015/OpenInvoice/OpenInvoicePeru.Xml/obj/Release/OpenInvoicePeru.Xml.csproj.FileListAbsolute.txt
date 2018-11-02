@@ -1,0 +1,15 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\OpenInvoicePeru.Xml.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\OpenInvoicePeru.Xml.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\OpenInvoicePeru.Comun.Dto.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\OpenInvoicePeru.Estructuras.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\Newtonsoft.Json.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\OpenInvoicePeru.Comun.Dto.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\OpenInvoicePeru.Estructuras.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\bin\Release\Newtonsoft.Json.xml
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\obj\Release\OpenInvoicePeru.Xml.csprojAssemblyReference.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\obj\Release\OpenInvoicePeru.Xml.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\obj\Release\OpenInvoicePeru.Xml.csproj.CopyComplete
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\obj\Release\OpenInvoicePeru.Xml.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Xml\obj\Release\OpenInvoicePeru.Xml.pdb

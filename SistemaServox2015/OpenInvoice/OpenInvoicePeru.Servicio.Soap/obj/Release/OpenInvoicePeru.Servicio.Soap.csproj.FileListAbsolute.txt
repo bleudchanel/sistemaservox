@@ -1,0 +1,12 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\bin\Release\OpenInvoicePeru.Servicio.Soap.dll.config
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\bin\Release\OpenInvoicePeru.Servicio.Soap.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\bin\Release\OpenInvoicePeru.Servicio.Soap.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\bin\Release\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\bin\Release\OpenInvoicePeru.Servicio.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\bin\Release\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\bin\Release\OpenInvoicePeru.Servicio.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\obj\Release\OpenInvoicePeru.Servicio.Soap.csprojAssemblyReference.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\obj\Release\OpenInvoicePeru.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\obj\Release\OpenInvoicePeru.Servicio.Soap.csproj.CopyComplete
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\obj\Release\OpenInvoicePeru.Servicio.Soap.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Servicio.Soap\obj\Release\OpenInvoicePeru.Servicio.Soap.pdb

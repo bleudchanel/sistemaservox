@@ -1,0 +1,9 @@
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\bin\Release\OpenInvoicePeru.Estructuras.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\bin\Release\OpenInvoicePeru.Estructuras.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\bin\Release\OpenInvoicePeru.Comun.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\bin\Release\OpenInvoicePeru.Comun.pdb
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\obj\Release\OpenInvoicePeru.Estructuras.csprojAssemblyReference.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\obj\Release\OpenInvoicePeru.Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\obj\Release\OpenInvoicePeru.Estructuras.csproj.CopyComplete
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\obj\Release\OpenInvoicePeru.Estructuras.dll
+C:\Users\MSI\openinvoiceperu\OpenInvoicePeru\OpenInvoicePeru.Estructuras\obj\Release\OpenInvoicePeru.Estructuras.pdb

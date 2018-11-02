@@ -1,0 +1,94 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemaServox2015BUS
+</name>
+</assembly>
+<members>
+<member name="T:SistemaServox2015BUS.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:SistemaServox2015BUS.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:SistemaServox2015BUS.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:SistemaServox2015BUS.clsPeriodo.fncListaPeriodoPorOperacionBUS(System.Int32)">
+ <summary>
+ 1 Compra, 2 Venta
+ </summary>
+ <param name="Operacion"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:SistemaServox2015BUS.clsTransporteBUS.fncTransportesPorOrden(System.Int32,System.Int32,System.String,System.Int32,System.Int32)">
+ <summary>
+ Cabecera y Detalle por Buscador
+ </summary>
+ <param name="intAnio"></param>
+ <param name="Mes"></param>
+ <param name="Estado"></param>
+ <param name="intOrden"></param>
+ <param name="intIdTransporteActual"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:SistemaServox2015BUS.clsCompraBUS.fncComprasPorOrden(System.Int32,System.Int32,System.Int32,System.String,System.Int32,System.Int32)">
+ <summary>
+ Cabecera y Detalle por Buscador
+ </summary>
+ <param name="intAnio"></param>
+ <param name="Mes"></param>
+ <param name="Estado"></param>
+ <param name="intOrden"></param>
+ <param name="intIdCompraActual"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:SistemaServox2015BUS.clsGarantiaBUS.fncGarantiasPorOrden(System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Cabecera y Detalle por Buscador
+ </summary>
+ <param name="intAnio"></param>
+ <param name="Mes"></param>
+ <param name="Estado"></param>
+ <param name="intOrden"></param>
+ <param name="intIdGarantiaActual"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:SistemaServox2015BUS.clsProformaBUS.fncProformasPorOrden(System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Cabecera y Detalle por Buscador
+ </summary>
+ <param name="intAnio"></param>
+ <param name="Mes"></param>
+ <param name="Estado"></param>
+ <param name="intOrden"></param>
+ <param name="intIdVentaActual"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:SistemaServox2015BUS.clsVentaBUS.fncVentasPorOrden(System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Cabecera y Detalle por Buscador
+ </summary>
+ <param name="intAnio"></param>
+ <param name="Mes"></param>
+ <param name="Estado"></param>
+ <param name="intOrden"></param>
+ <param name="intIdVentaActual"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

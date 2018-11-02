@@ -1,0 +1,352 @@
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe.config
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe.manifest
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.application
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\System.Text.Rtf.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComisiones.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasSinIGV.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVariablesGlobales.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoEmpleado.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBuscadorOperacion.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCliente.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasConIGV.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProducto.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProveedor.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoGarantia.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoOtrosGastos.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProforma.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReporteProductoAvanzado.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReportes.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmRepositorioReporte.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmCambiarPassword.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmLoginPrincipal.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoTransporte.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentasRapidas.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVentaRapida.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBusquedaPorCodigo.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmComision.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCodigosUnidad.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentas.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmPrincipal.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.exe.manifest
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.application
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbprojResolveAssemblyReference.cache
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComisiones.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasSinIGV.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVariablesGlobales.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoEmpleado.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBuscadorOperacion.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCliente.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasConIGV.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProducto.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProveedor.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoGarantia.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoOtrosGastos.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProforma.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReporteProductoAvanzado.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReportes.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmRepositorioReporte.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmCambiarPassword.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmLoginPrincipal.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoTransporte.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentasRapidas.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVentaRapida.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBusquedaPorCodigo.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmComision.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCodigosUnidad.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentas.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmPrincipal.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.Resources.resources
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.GenerateResource.Cache
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.exe
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.CoreCompileInputs.cache
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\clsSeg_IncidenciaBN.vb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\clsSeg_IncidenciaBUS.vb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe.config
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe.manifest
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.application
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\FlashControlV71.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.exe
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\ShockwaveFlashObjects.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.Unity.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\stdole.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.exe.config
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.pdb
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.xml
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.exe.manifest
+I:\Proyectos\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.application
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.Shared.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\Proyectos\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe.config
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe.manifest
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.application
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\FlashControlV71.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.exe
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\stdole.dll
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.exe.config
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.pdb
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComisiones.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasSinIGV.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVariablesGlobales.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoEmpleado.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBuscadorOperacion.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCliente.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasConIGV.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProducto.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProveedor.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoGarantia.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoOtrosGastos.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProforma.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReporteProductoAvanzado.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReportes.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmRepositorioReporte.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmCambiarPassword.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmLoginPrincipal.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoTransporte.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentasRapidas.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVentaRapida.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBusquedaPorCodigo.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmComision.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCodigosUnidad.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentas.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmPrincipal.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.Resources.resources
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.exe.manifest
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.application
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.exe
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.xml
+C:\Users\Usuario\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.pdb
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbprojAssemblyReference.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComisiones.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasSinIGV.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVariablesGlobales.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoEmpleado.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBuscadorOperacion.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCliente.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasConIGV.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProducto.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProveedor.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoGarantia.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoOtrosGastos.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProforma.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReporteProductoAvanzado.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReportes.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmRepositorioReporte.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmCambiarPassword.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmLoginPrincipal.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoTransporte.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentasRapidas.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVentaRapida.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBusquedaPorCodigo.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmComision.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCodigosUnidad.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentas.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmPrincipal.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.Resources.resources
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.GenerateResource.cache
+C:\Users\MSI\Dropbox\NUEVO SERVOX\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\clsSeg_IncidenciaBN.vb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\clsSeg_IncidenciaBUS.vb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe.config
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe.manifest
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.application
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.exe
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\FlashControlV71.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.exe
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\stdole.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\pryUtil.exe.config
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BD.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BN.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SistemaServox2015BUS.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbprojAssemblyReference.cache
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComisiones.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasSinIGV.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVariablesGlobales.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoEmpleado.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBuscadorOperacion.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCliente.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoComprasConIGV.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProducto.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProveedor.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoGarantia.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoOtrosGastos.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoProforma.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReporteProductoAvanzado.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmReportes.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmRepositorioReporte.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmCambiarPassword.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmLoginPrincipal.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoTransporte.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentasRapidas.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmVentaRapida.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmBusquedaPorCodigo.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmComision.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoCodigosUnidad.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmMantenimientoVentas.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.frmPrincipal.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.Resources.resources
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.GenerateResource.cache
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.exe.manifest
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.application
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015GUI.vbproj.CopyComplete
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.exe
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\obj\x86\Debug\SistemaServox2015.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.Comun.Dto.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.Comun.Dto.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.exe
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.Datos.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.Entidades.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\EntityFramework.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.exe.config
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.Datos.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.Datos.dll.config
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\OpenInvoicePeru.Entidades.pdb
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\EntityFramework.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\SistemaServox2015\SistemaServox2015\bin\Debug\EntityFramework.SqlServer.xml
